@@ -1,0 +1,28 @@
+title: "Verificador de Notícias"
+description: "Sistema inteligente para detectar fake news usando JavaScript"
+url: "https://seuusuario.github.io"
+baseurl: "/verificador-noticias"
+
+# GitHub Pages settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO
+lang: pt-BR
+author: "Seu Nome"
+
+# Social
+github_username: seuusuario
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
